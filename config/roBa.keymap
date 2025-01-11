@@ -72,10 +72,10 @@
 
         KIGOU {
             bindings = <
-&kp PERCENT  &kp DOLLAR  &kp AMPERSAND  &kp CARET        &kp SLASH                         &trans  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp LESS_THAN  &kp GREATER_THAN
-&kp AT_SIGN  &kp HASH    &kp ASTERISK   &kp PLUS         &kp EQUAL     &trans      &trans  &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &kp COLON
-&kp SQT      &kp TILDE   &trans         &kp EXCLAMATION  &kp QUESTION  &none       &trans  &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SQT        &kp DOUBLE_QUOTES
-&trans       &trans      &trans         &trans           &trans        &trans      &trans  &trans                                                              &trans
+&kp PERCENT  &kp DOLLAR  &kp AMPERSAND  &kp CARET        &kp SLASH                         &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS  &kp LESS_THAN  &kp GREATER_THAN
+&kp AT_SIGN  &kp HASH    &kp ASTERISK   &kp PLUS         &kp EQUAL     &trans      &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDER  &kp SEMICOLON  &kp COLON
+&kp SQT      &kp TILDE   &trans         &kp EXCLAMATION  &kp QUESTION  &none       &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp COMMA  &kp PERIOD     &kp DOUBLE_QUOTES
+&trans       &trans      &trans         &trans           &trans        &trans      &trans  &trans                                                                 &trans
             >;
         };
 
